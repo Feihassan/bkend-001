@@ -1,0 +1,47 @@
+{
+  "apartments": [
+    {
+      "id": "1",
+      "title": "Modern 2BR in Nairobi",
+      "price": 65000,
+      "location": "Westlands",
+      "image": "https://media.istockphoto.com/id/2093684613/photo/virtual-design-of-elegant-living-room-with-nature-view.webp?a=1&b=1&s=612x612&w=0&k=20&c=dYxj9mAPAr9mDmLE99AqVihO5nH3487GwbO6jupqVsw=",
+      "booked": true
+    },
+    {
+      "id": "2",
+      "title": "Studio Apartment in Kilimani",
+      "price": 45000,
+      "location": "Kilimani",
+      "image": "https://plus.unsplash.com/premium_photo-1674676471104-3c4017645e6f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8YXBhcnRtZW50fGVufDB8fDB8fHww",
+      "booked": true
+    },
+    {
+      "id": "53ad",
+      "title": "Modern 1BR in Nairobi",
+      "price": 50000,
+      "location": "Westlands",
+      "image": "https://unsplash.com/photos/a-dining-room-with-a-table-and-chairs-id_Gcy55qSI",
+      "description": "The best to be",
+      "booked": true
+    },
+    {
+      "id": "9675",
+      "title": "Studio Apartment in Kilimani",
+      "price": 45000,
+      "location": "Kilimani",
+      "image": "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8YXBhcnRtZW50fGVufDB8fDB8fHww",
+      "description": "Best studio apartment",
+      "booked": true
+    },
+    {
+      "id": "19",
+      "title": "Minimalist Studio",
+      "price": 39000,
+      "location": "Parklands",
+      "image": "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8YXBhcnRtZW50fGVufDB8fDB8fHww",
+      "description": "Simple and functional",
+      "booked": true
+    }
+  ]
+}
